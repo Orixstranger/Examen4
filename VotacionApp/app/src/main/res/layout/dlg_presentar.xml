@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/lblCedulaDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cedula" />
+
+    <TextView
+        android:id="@+id/lblNombreDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre" />
+
+    <TextView
+        android:id="@+id/lblRecintoDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Recinto" />
+
+    <TextView
+        android:id="@+id/lblJuntaDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Junta" />
+
+    <TextView
+        android:id="@+id/lblDireccionDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Direccion" />
+
+    <TextView
+        android:id="@+id/lblProvinciaDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Provincia" />
+
+    <TextView
+        android:id="@+id/lblCantonDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Canton" />
+
+    <TextView
+        android:id="@+id/lblParroquiaDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Parroquia" />
+
+    <TextView
+        android:id="@+id/lblZonaDLG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Zona" />
+</LinearLayout>
